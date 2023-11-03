@@ -11,7 +11,7 @@ Run the below commands
 
 # Running the client chat app in angular
 
-Goto -> "Angular Client - end" Folder
+Goto -> "Angular Client" Folder
 Run the below commands
 - npm i
 - npm start
